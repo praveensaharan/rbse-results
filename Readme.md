@@ -16,8 +16,8 @@ This project is a FastAPI-based web service for searching and retrieving student
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/fastapi-student-results-api.git
-   cd fastapi-student-results-api
+   git clone https://github.com/praveensaharan/rbse-results.git
+   cd rbse-results
    ```
 
 2. **Create a virtual environment and activate it**:
