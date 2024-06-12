@@ -1,0 +1,20 @@
+# Ignore virtual environment files
+venv/
+env/
+
+.vscode/
+.idea/
+
+*.pyc
+__pycache__/
+
+*.log
+
+*.db
+
+docs/_build/
+
+settings.ini
+
+secrets.json
+.env
