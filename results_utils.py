@@ -200,4 +200,4 @@ async def extract_student_info(html_content):
 
         personal_details['subject_marks'] = subject_marks
 
-        return json.dumps(personal_details, indent=4)
+        return personal_details
